@@ -1,4 +1,4 @@
-[![MasterHead](https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png)]
+![MasterHead](https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png)
 
 <h1 align="center">Hi 👋, I'm Avinash KP</h1>
 <h3 align="center">A passionate android developer from India</h3>
