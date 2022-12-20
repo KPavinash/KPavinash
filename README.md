@@ -1,6 +1,6 @@
 ![MasterHead](https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png)
 <h1 align="center">Hi 👋, I'm Avinash KP</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpavinash&label=Profile%20views&color=0e75b6&style=flat" alt="kpavinash" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/kpavinash](https://dev.to/kpavinash)
 
-- 💬 Ask me about **Android, Web**
+- 💬 Ask me about **Front-End, back-End technologies**
 
 - 📫 How to reach me **mail@avinashkp.site**
 
