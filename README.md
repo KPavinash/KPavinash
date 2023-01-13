@@ -5,10 +5,14 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=1000&color=0BABF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+KP;MERN+stack+developer;from+India" alt="Typing SVG" /></a>
 
 </div>
-![MasterHead](https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kpavinash&label=Profile%20views&color=0e75b6&style=flat" alt="kpavinash" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpavinash&theme=algolia" alt="kpavinash" /></a> </p>
+
+<a href="https://www.linkedin.com/in/avinash-k-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <p align="left"> <a href="https://twitter.com/avinashpgdi2000" target="blank"><img src="https://img.shields.io/twitter/follow/avinashpgdi2000?logo=twitter&style=for-the-badge" alt="avinashpgdi2000" /></a> </p>
 
