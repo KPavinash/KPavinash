@@ -1,5 +1,8 @@
 ![MasterHead](https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png)
 <h1 align="center">Hi 👋, I'm Avinash KP</h1>
+<br>
+<br>
+<br>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=3000&pause=1000&color=0BABF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Avinash+KP;MERN+stack+developer;from+India" alt="Typing SVG" /></a>
 <h3 align="center">A passionate full stack developer from India</h3>
 
