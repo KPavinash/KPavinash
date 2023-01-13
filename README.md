@@ -10,11 +10,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpavinash&theme=algolia" alt="kpavinash" /></a> </p>
 
+
+
+<p align="left"> <a href="https://twitter.com/avinashpgdi2000" target="blank"><img src="https://img.shields.io/twitter/follow/avinashpgdi2000?logo=twitter&style=for-the-badge" alt="avinashpgdi2000" /></a>
 <a href="https://www.linkedin.com/in/avinash-k-p/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-<p align="left"> <a href="https://twitter.com/avinashpgdi2000" target="blank"><img src="https://img.shields.io/twitter/follow/avinashpgdi2000?logo=twitter&style=for-the-badge" alt="avinashpgdi2000" /></a> </p>
+</p>
 
 - 🌱 I’m currently learning **MERN stack**
 
